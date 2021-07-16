@@ -12,3 +12,5 @@ Plot histograms and wordcloud to understand the distribution and key words of al
 1) Use OOP to build class and perform Logistic Classfier, Random Forest Classfier, and Support Vector Machines models. 
 2) Compare model performances based on their precision, recall and f1-score.
 3) Compare predict results and use the mode as the final predictions. 
+## Data Source:
+https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
